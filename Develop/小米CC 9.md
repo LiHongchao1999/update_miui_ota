@@ -1,7 +1,10 @@
 | 小米CC 9  开发版/内测版    |
 | ---- |
+| [miui_PYXIS_20.12.10_c2a2844e7f_10.0.zip](https://hugeota.d.miui.com/20.12.10/miui_PYXIS_20.12.10_c2a2844e7f_10.0.zip)    |
 | [miui_PYXIS_20.12.9_1ac3c93766_10.0.zip](https://hugeota.d.miui.com/20.12.9/miui_PYXIS_20.12.9_1ac3c93766_10.0.zip)    |
+| [miui_PYXIS_20.12.8_9502d56d95_10.0.zip](https://hugeota.d.miui.com/20.12.8/miui_PYXIS_20.12.8_9502d56d95_10.0.zip)    |
 | [miui_PYXIS_20.12.7_4b00b54901_10.0.zip](https://hugeota.d.miui.com/20.12.7/miui_PYXIS_20.12.7_4b00b54901_10.0.zip)    |
+| [miui_PYXIS_20.12.4_e1c247445e_10.0.zip](https://hugeota.d.miui.com/20.12.4/miui_PYXIS_20.12.4_e1c247445e_10.0.zip)    |
 | [miui_PYXIS_20.12.2_06fbb9608c_10.0.zip](https://hugeota.d.miui.com/20.12.2/miui_PYXIS_20.12.2_06fbb9608c_10.0.zip)    |
 | [miui_PYXIS_20.12.1_e9ed5d7ec4_10.0.zip](https://hugeota.d.miui.com/20.12.1/miui_PYXIS_20.12.1_e9ed5d7ec4_10.0.zip)    |
 | [miui_PYXIS_20.11.30_559c5e39b5_10.0.zip](https://hugeota.d.miui.com/20.11.30/miui_PYXIS_20.11.30_559c5e39b5_10.0.zip)    |
